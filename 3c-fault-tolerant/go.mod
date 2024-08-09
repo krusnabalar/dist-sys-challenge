@@ -1,4 +1,4 @@
-module 3a-broadcast-singlenode
+module 3c-fault-tolerant
 
 go 1.21.1
 
